@@ -1,0 +1,4 @@
+- 👋 oi, sou @daibertelli
+- 👀 amo musica , historia, politica,BTS...
+- 🌱 estou interessada em aprender codigos
+-
