@@ -3,3 +3,6 @@
 - 🌱 estou interessada em aprender codigos
 -  meu email de contato é [email](@daiana.bertelli@escola.pr.gov.br)
 -
+-  <img src="{BadgeURLHere}" /> or ![image]({BadgeURLHere})
+- 
+- ![Scratch] https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white
