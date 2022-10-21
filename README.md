@@ -1,4 +1,5 @@
-- 👋 oi, sou @daibertelli
+- 👋 oi, sou **@daibertelli**
 - 👀 amo musica , historia, politica,BTS...
 - 🌱 estou interessada em aprender codigos
+-  meu email de contato é [email](@daiana.bertelli@escola.pr.gov.br)
 -
